@@ -14,6 +14,6 @@ This project is a basic implementation for image classification using machine le
 
 ## LICENSE:
 
-&copy; 2024 Ryan Gading Abdullah. All rights reserved.
+&copy; 2023 Ryan Gading Abdullah. All rights reserved.
 
 This project is licensed under the MIT License - see the [MIT LICENSE](LICENSE) for details.
