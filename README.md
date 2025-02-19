@@ -1,18 +1,18 @@
 # Image Classification (Dicoding Submission - Belajar Machine Learning untuk Pemula (Machine Learning for Beginners))
 
-## Author:
+## Author
 
 Ryan Gading Abdullah
 
-## Date Created:
+## Date Created
 
 December 2023
 
-## Description:
+## Description
 
 This project is a basic implementation for image classification using machine learning. The app aims to classify images into various categories using a simple machine learning model, as part of the "Machine Learning for Beginners" course on Dicoding.
 
-## LICENSE:
+## LICENSE
 
 &copy; 2023 Ryan Gading Abdullah. All rights reserved.
 
