@@ -1,4 +1,4 @@
-# Image Classification (Dicoding Submission - Belajar Machine Learning untuk Pemula (Machine Learning for Beginners))
+# Dicoding Submission - Image Classification (Belajar Machine Learning untuk Pemula (Machine Learning for Beginners))
 
 ## Author
 
